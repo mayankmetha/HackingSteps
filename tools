@@ -1,0 +1,9 @@
+1)ifconfig -> all network card details and configration
+2)iwconfig -> all wireless network card details and configuration
+
+3)macchanger -> changes MAC value on ram
+
+4)airmon-ng -> for running network card on monitor mode
+5)airodump-ng -> packet sniffing and finding all wireless networks around us
+6)aireplay-ng -> deauth, packet injection
+7)mana-toolkit -> create a fake AP (refer mana-toolkit-tools)

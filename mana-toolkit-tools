@@ -1,0 +1,3 @@
+1)start-noupstream -> starts an AP with no internet connection
+2)start-nat-simple -> starts an regular AP using internet connection in upstream interface
+3)start-nat-full -> starts AP with internet connection, and also starts sslstrip,sslsplit,firelamp and attemps to bypass HSTS
