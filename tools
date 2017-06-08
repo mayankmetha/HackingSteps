@@ -14,3 +14,8 @@
 
 11)crunch -> wordlist generation
 12)hashcat -> GPU based hash cracking
+
+13)nmap -> network spoofing tool
+14)zenmap -> nmap GUI
+
+15)arpspoof -> arp spoofing (refer arpspoof-steps)
