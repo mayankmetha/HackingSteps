@@ -14,3 +14,6 @@
 14)zenmap -> nmap GUI
 15)arpspoof -> arp spoofing (refer arpspoof-steps)
 16)mitmf -> Man in the middle attack
+17)ferret -> cookie hijacking
+18)hamster -> cookie hijacking
+19)wireshark -> network analyser
