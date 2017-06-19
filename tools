@@ -20,5 +20,6 @@
 20)metasploit -> Server Side Exploit framework
 21)metasploit community -> GUI metasploit
 22)nexpose -> vulnerability assessment tools
-23)OpenVas -> vulnerability assessment tools
-24)Veil -> Backdoor generator
+23)openvas -> vulnerability assessment tools
+24)veil-framework -> Backdoor generator
+25)evilgrade -> server to serve fake updates (refer evilgrade-all)
