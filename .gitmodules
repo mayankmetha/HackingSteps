@@ -1,0 +1,3 @@
+[submodule "hackingTools"]
+	path = hackingTools
+	url = https://github.com/mayankmetha/hackingTools.git
