@@ -1,4 +1,4 @@
-# hackingTools
+# HackingSteps
 Common tools used for ethical hacking
 
 #MIT License
