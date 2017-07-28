@@ -1,3 +1,6 @@
 [submodule "hackingTools"]
 	path = hackingTools
 	url = https://github.com/mayankmetha/hackingTools.git
+[submodule "wordlists"]
+	path = wordlists
+	url = https://github.com/mayankmetha/wordlists.git
