@@ -26,3 +26,4 @@
 26)bdfproxy -> patch executables with backdoor on the fly
 27)iptable -> port forwarding and related task (restore iptable use flushiptables.sh)
 28)maltego -> infomation gathering tool
+29)Beef Framework -> browser exploitation
