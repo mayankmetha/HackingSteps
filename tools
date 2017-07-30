@@ -27,3 +27,5 @@
 27)iptable -> port forwarding and related task (restore iptable use flushiptables.sh)
 28)maltego -> infomation gathering tool
 29)Beef Framework -> browser exploitation
+30)knock -> subdomain scanning
+31)dirb -> web content scanner
