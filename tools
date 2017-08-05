@@ -30,4 +30,5 @@
 30)knock -> subdomain scanning
 31)dirb -> web content scanner
 32)weevly -> web app backdoor tool
-33)nc -> network connection
+33)nc -> netcat connection
+34)sqlmap -> sql injection
