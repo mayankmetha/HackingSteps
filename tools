@@ -29,3 +29,5 @@
 29)Beef Framework -> browser exploitation
 30)knock -> subdomain scanning
 31)dirb -> web content scanner
+32)weevly -> web app backdoor tool
+33)nc -> network connection
