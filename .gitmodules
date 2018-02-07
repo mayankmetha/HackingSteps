@@ -4,3 +4,6 @@
 [submodule "wordlists"]
 	path = wordlists
 	url = https://github.com/mayankmetha/wordlists.git
+[submodule "rubberDuckyScripts"]
+	path = rubberDuckyScripts
+	url = https://github.com/mayankmetha/rubberDuckyScripts.git
