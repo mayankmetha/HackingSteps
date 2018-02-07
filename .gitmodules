@@ -7,3 +7,6 @@
 [submodule "rubberDuckyScripts"]
 	path = rubberDuckyScripts
 	url = https://github.com/mayankmetha/rubberDuckyScripts.git
+[submodule "Rucky"]
+	path = Rucky
+	url = https://github.com/mayankmetha/Rucky.git
