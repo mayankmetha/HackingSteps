@@ -6,4 +6,4 @@
 	url = https://github.com/mayankmetha/wordlists.git
 [submodule "rubberDuckyScripts"]
 	path = rubberDuckyScripts
-	url = ./rubberDuckyScripts
+	url = https://github.com/mayankmetha/rubberDuckyScripts.git
