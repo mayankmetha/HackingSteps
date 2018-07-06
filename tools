@@ -40,3 +40,4 @@
 40)msfvenom -> multiOS backdoor generator
 41)ZLogger -> persistent keylogger
 42)mdk3 -> 802.11 exploits
+43)SET(Social Engineering Toolkit) -> prebuilt modules to perform Social Engineering Attacks
