@@ -45,3 +45,4 @@
 45)Fluxion -> MITM WPA attack
 46)asleap -> Recover LEAP/PPTP passwords
 47)ettercap -> MITM framework
+48)mitmproxy -> proxy for mitm
