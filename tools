@@ -46,3 +46,4 @@
 46)asleap -> Recover LEAP/PPTP passwords
 47)ettercap -> MITM framework
 48)mitmproxy -> proxy for mitm
+49)TrojanFactory -> make trojans
